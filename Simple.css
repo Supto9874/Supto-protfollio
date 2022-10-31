@@ -1,0 +1,55 @@
+.navlist {
+      width: 100%;
+      padding: 5px 10vw;
+}
+
+.navlist ul {
+      display: flex;
+      list-style: none;
+}
+
+.navlist ul a {
+      margin-left: 100px;
+      text-decoration: none;
+      padding: 7px 30px;
+      color: black;
+      border-radius: 5px;
+}
+.first-section{
+display: flex;
+}
+.one{
+color: orange;
+}
+span{
+color: blue;
+}
+h1{
+font-size:50px ;
+}
+p{
+font-size:20px ;
+}
+
+.link{
+text-decoration: none;
+background-image: linear-gradient(tomato,orange);
+padding:7px 30px ;
+color: white;
+border-radius:10px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

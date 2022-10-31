@@ -25,11 +25,10 @@ span {
 }
 
 .link {
-      text-decoration: none;
-      background-image: linear-gradient(tomato, orange);
-      padding: 7px 30px;
-      color: white;
-      border-radius: 17px;
+text-decoration: none;
+background-image:linear-gradient(tomato,orange)
+
+
 }
 .first-section{
 display: flex;
